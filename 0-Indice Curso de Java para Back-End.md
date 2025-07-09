@@ -66,3 +66,13 @@ Tornou-se uma ferramenta padrão na implantação de aplicações back-end.
 * __Criação de Imagem Docker para Aplicação Java/Spring Boot__.
 * __Docker Compose__: Orquestrar serviços em desenvolvimento (aplicação + banco de dados).
 Ao cobrir esses pontos, um curso de Back-End com Java preparará o aluno não apenas para escrever código funcional, mas para construir sistemas robustos, manuteníveis e prontos para o mercado.
+## Extras
+### 1-Manipulando Sons e Áudios em Java: Uma Breve Introdução ao Java Sound API
+### 2-Lambda no Java: Simplificando o Código Funcional e Otimizando a Leitura
+### 3-MongoDB e Java: Uma Dupla Dinâmica para Aplicações Modernas
+### 4-JSON: O Formato Leve de Troca de Dados
+### 5-Gerenciamento de Esquema de Banco de Dados com Liquibase: Uma Visão Abrangente
+### 6-Simplificando o Código Java com Project Lombok
+### 7-Hibernate: A Ponte entre Objetos e Bancos de Dados Relacionais
+### 8-Spring Data JPA: Descomplicando o Acesso a Dados no Java
+### 9-Maven: O Gerenciador de Projetos e Ferramenta de Build Essencial para Java
