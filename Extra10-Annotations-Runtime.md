@@ -150,10 +150,10 @@ A combinação de anotações de tempo de execução e Reflexão é a espinha do
 
 ### 7. Vantagens e Desvantagens
 ```
-Vantagens	                                       |     Desvantagens
+Vantagens	                                      |     Desvantagens
 Programação Declarativa	                           |     Custo de Performance (A Reflexão é mais lenta que chamadas diretas)
 Reduz o código repetitivo (boilerplate)	           |     Complexidade (A lógica por trás do processador de anotações pode ser complexa)
-Aumenta a flexibilidade e a extensibilidade	       |     Dificuldade de Depuração (Pode ser difícil rastrear o fluxo de execução)
+Aumenta a flexibilidade e a extensibilidade	      |     Dificuldade de Depuração (Pode ser difícil rastrear o fluxo de execução)
 Separação de preocupações (lógica vs. metadados)   |	
 ```
 
